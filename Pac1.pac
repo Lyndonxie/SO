@@ -3,7 +3,8 @@ var domains = {
     "facebook.com": 1,
     "bing.com":1
 };
-var proxy = "SOCKS5 192.168.91.107:1080;";
+var proxy = "SOCKS5 192.168.91.107:1080";
+
 var direct = 'DIRECT;';
 function FindProxyForURL(url, host) {
     var lastPos;
