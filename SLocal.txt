@@ -1,6 +1,7 @@
 [SwitchyOmega Conditions]
 @with result
 
+*.kindle4rss.com +local
 *.030buy.com +local
 *.0rz.tw +local
 *.1-apple.com.tw +local
