@@ -728,5 +728,10 @@
 *.zol.com.cn +direct
 *.zuk.cn +direct
 219.224.146.163 +direct
+*.freetranslation.com +direct
+*.babylon.com +direct
+*.zaixian-fanyi.com +direct
+*.lianhekj.com +direct
+*.bdimg.com +direct
 
 * +local
