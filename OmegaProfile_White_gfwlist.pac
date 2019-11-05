@@ -9,14 +9,12 @@ var FindProxyForURL = function(init, profiles) {
         return result;
     };
 }("+White_gfwlist", {
-    "+White_gfwlist": function(url, host, scheme) {
-        "use strict";
-        if (/(?:^|\.)githubapp\.com$/.test(host)) return "DIRECT";
-        if (/(?:^|\.)github\.com$/.test(host)) return "DIRECT";
-        return "+__ruleListOf_White_gfwlist";
-    },
+    "+White_gfwlist": "+__ruleListOf_White_gfwlist",
     "+__ruleListOf_White_gfwlist": function(url, host, scheme) {
         "use strict";
+        if (/(?:^|\.)github-production-upload-manifest-file-7fdce7\.s3\.amazonaws\.com$/.test(host)) return "DIRECT";
+        if (/(?:^|\.)githubapp\.com$/.test(host)) return "DIRECT";
+        if (/(?:^|\.)github\.com$/.test(host)) return "DIRECT";
         if (/(?:^|\.)06climate\.com$/.test(host)) return "DIRECT";
         if (/(?:^|\.)10010\.com$/.test(host)) return "DIRECT";
         if (/(?:^|\.)10086\.cn$/.test(host)) return "DIRECT";
@@ -749,12 +747,12 @@ var FindProxyForURL = function(init, profiles) {
         if (/(?:^|\.)zaixian-fanyi\.com$/.test(host)) return "DIRECT";
         if (/(?:^|\.)lianhekj\.com$/.test(host)) return "DIRECT";
         if (/(?:^|\.)bdimg\.com$/.test(host)) return "DIRECT";
-        if (/$/.test(host)) return "+local";
-        return "+local";
+        if (/$/.test(host)) return "+panda";
+        return "+panda";
     },
-    "+local": function(url, host, scheme) {
+    "+panda": function(url, host, scheme) {
         "use strict";
         if (/^127\.0\.0\.1$/.test(host) || /^::1$/.test(host) || /^localhost$/.test(host)) return "DIRECT";
-        return "SOCKS5 192.168.91.107:1082; SOCKS 192.168.91.107:1082";
+        return "SOCKS5 192.168.2.116:1082; SOCKS 192.168.2.116:1082";
     }
 });
