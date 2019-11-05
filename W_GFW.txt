@@ -1,6 +1,9 @@
 [SwitchyOmega Conditions]
 @with result
 
+*.github-production-upload-manifest-file-7fdce7.s3.amazonaws.com +direct
+*.githubapp.com +direct
+*.github.com +direct
 *.06climate.com +direct
 *.10010.com +direct
 *.10086.cn +direct
