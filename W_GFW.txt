@@ -1,6 +1,7 @@
 [SwitchyOmega Conditions]
 @with result
 
+*.mdnice.com +direct
 *.conac.cn +direct
 *.patentstar.com.cn +direct
 *.github-production-upload-manifest-file-7fdce7.s3.amazonaws.com +direct
