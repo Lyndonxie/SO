@@ -737,4 +737,4 @@
 *.lianhekj.com +direct
 *.bdimg.com +direct
 
-* +local
+* +panda
