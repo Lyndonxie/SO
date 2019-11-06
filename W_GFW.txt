@@ -1,6 +1,7 @@
 [SwitchyOmega Conditions]
 @with result
 
+*.chinatax.gov.cn +direct
 *.mdnice.com +direct
 *.conac.cn +direct
 *.patentstar.com.cn +direct
