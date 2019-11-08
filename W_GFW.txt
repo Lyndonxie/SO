@@ -1,6 +1,8 @@
 [SwitchyOmega Conditions]
 @with result
 
+*.adguard.org +direct
+*.adguard.com +direct
 *.chinatax.gov.cn +direct
 *.mdnice.com +direct
 *.conac.cn +direct
