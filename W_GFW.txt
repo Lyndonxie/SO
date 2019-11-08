@@ -1,6 +1,8 @@
 [SwitchyOmega Conditions]
 @with result
 
+*.quzhuanpan.com +direct
+*.wocali.com +direct
 *.adguard.org +direct
 *.adguard.com +direct
 *.chinatax.gov.cn +direct
