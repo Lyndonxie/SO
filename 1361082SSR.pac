@@ -12,6 +12,14 @@ var FindProxyForURL = function(init, profiles) {
     "+White_gfwlist": "+__ruleListOf_White_gfwlist",
     "+__ruleListOf_White_gfwlist": function(url, host, scheme) {
         "use strict";
+        if (/(?:^|\.)weixin\.qq\.com$/.test(host)) return "DIRECT";
+        if (/(?:^|\.)gtimg\.cn$/.test(host)) return "DIRECT";
+        if (/(?:^|\.)mookie1\.cn$/.test(host)) return "DIRECT";
+        if (/(?:^|\.)miaozhen\.com$/.test(host)) return "DIRECT";
+        if (/(?:^|\.)ipinyou\.com$/.test(host)) return "DIRECT";
+        if (/(?:^|\.)agrantsem\.com$/.test(host)) return "DIRECT";
+        if (/(?:^|\.)tahua\.net$/.test(host)) return "DIRECT";
+        if (/(?:^|\.)eastday\.com$/.test(host)) return "DIRECT";
         if (/(?:^|\.)quzhuanpan\.com$/.test(host)) return "DIRECT";
         if (/(?:^|\.)wocali\.com$/.test(host)) return "DIRECT";
         if (/(?:^|\.)adguard\.org$/.test(host)) return "DIRECT";
