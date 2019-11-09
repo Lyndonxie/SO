@@ -1,6 +1,13 @@
 [SwitchyOmega Conditions]
 @with result
 
+*.gtimg.cn +direct
+*.mookie1.cn +direct
+*.miaozhen.com +direct
+*.ipinyou.com +direct
+*.agrantsem.com +direct
+*.tahua.net +direct
+*.eastday.com +direct
 *.quzhuanpan.com +direct
 *.wocali.com +direct
 *.adguard.org +direct
