@@ -1,6 +1,7 @@
 [SwitchyOmega Conditions]
 @with result
 
+*.wechat.com +direct
 *.weixin.qq.com +direct
 *.gtimg.cn +direct
 *.mookie1.cn +direct
