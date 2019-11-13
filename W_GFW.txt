@@ -1,6 +1,13 @@
 [SwitchyOmega Conditions]
 @with result
 
+*.sq688.com +direct
+*.ape-flac.com +direct
+*.carflac.com +direct
+*.8ziyuan.com +direct
+*.wusunyinyue.cn +direct
+*.wsyyxz.com +direct
+*.91flac.com +direct
 *.niubide.com +direct
 *.zdfans.com +direct
 *.baiduyun.wiki +direct
