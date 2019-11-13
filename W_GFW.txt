@@ -1,6 +1,8 @@
 [SwitchyOmega Conditions]
 @with result
 
+*.niubide.com +direct
+*.zdfans.com +direct
 *.baiduyun.wiki +direct
 *.baiduwp.com +direct
 *.cqvip.com +direct
