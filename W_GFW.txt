@@ -1,6 +1,10 @@
 [SwitchyOmega Conditions]
 @with result
 
+
+*.baiduwp.com +direct
+*.cqvip.com +direct
+*.xichadian.com +direct
 *.06climate.com +direct
 *.10010.com +direct
 *.10086.cn +direct
