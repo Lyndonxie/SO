@@ -1,7 +1,7 @@
 [SwitchyOmega Conditions]
 @with result
 
-
+*.baiduyun.wiki +direct
 *.baiduwp.com +direct
 *.cqvip.com +direct
 *.xichadian.com +direct
