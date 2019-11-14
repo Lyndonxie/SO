@@ -1,6 +1,8 @@
 [SwitchyOmega Conditions]
 @with result
 
+*.mgtv.com +direct
+*.kugou.com +direct
 *.sq688.com +direct
 *.ape-flac.com +direct
 *.carflac.com +direct
