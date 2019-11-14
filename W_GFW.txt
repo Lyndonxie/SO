@@ -1,6 +1,8 @@
 [SwitchyOmega Conditions]
 @with result
 
+*.ximalaya.com +direct
+*.xmcdn.com +direct
 *.mgtv.com +direct
 *.kugou.com +direct
 *.sq688.com +direct
