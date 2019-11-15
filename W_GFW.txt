@@ -1,23 +1,6 @@
 [SwitchyOmega Conditions]
 @with result
 
-*.ximalaya.com +direct
-*.xmcdn.com +direct
-*.mgtv.com +direct
-*.kugou.com +direct
-*.sq688.com +direct
-*.ape-flac.com +direct
-*.carflac.com +direct
-*.8ziyuan.com +direct
-*.wusunyinyue.cn +direct
-*.wsyyxz.com +direct
-*.91flac.com +direct
-*.niubide.com +direct
-*.zdfans.com +direct
-*.baiduyun.wiki +direct
-*.baiduwp.com +direct
-*.cqvip.com +direct
-*.xichadian.com +direct
 *.06climate.com +direct
 *.10010.com +direct
 *.10086.cn +direct
@@ -66,7 +49,9 @@
 *.7k7k.com +direct
 *.7to.cn +direct
 *.86ps.com +direct
+*.8ziyuan.com +direct
 *.91.com +direct
+*.91flac.com +direct
 *.91sotu.com +direct
 *.acfun.cn +direct
 *.acfun.tv +direct
@@ -102,9 +87,11 @@
 *.anjuke.com +direct
 *.anquan.org +direct
 *.anzhi.com +direct
+*.ape-flac.com +direct
 *.apkcombo.com +direct
 *.appgame.com +direct
 *.appinn.com +direct
+*.apple.com +direct
 *.aps.org +direct
 *.areyoucereal.com +direct
 *.aria2c.com +direct
@@ -120,6 +107,8 @@
 *.baidupcs.com +direct
 *.baidustatic.com +direct
 *.baidusu.com +direct
+*.baiduwp.com +direct
+*.baiduyun.wiki +direct
 *.baizaoyin.fm +direct
 *.bankcomm.com +direct
 *.baozoumanhua.com +direct
@@ -155,6 +144,7 @@
 *.bybbs.org +direct
 *.cachemoment.com +direct
 *.caixinglobal.com +direct
+*.carflac.com +direct
 *.cas.cn +direct
 *.cctv.com +direct
 *.cdn.jsdelivr.net +direct
@@ -196,6 +186,7 @@
 *.conac.cn +direct
 *.coolapk.com +direct
 *.coolpad.com +direct
+*.cqvip.com +direct
 *.csair.com +direct
 *.csdn.net +direct
 *.csdn.net +direct
@@ -398,6 +389,7 @@
 *.ksyun.com +direct
 *.ku6.com +direct
 *.kuaizhan.com +direct
+*.kugou.com +direct
 *.lackar.com +direct
 *.lany.me +direct
 *.lanyus.com +direct
@@ -459,6 +451,7 @@
 *.meituan.net +direct
 *.meizu.com +direct
 *.mengniang.org +direct
+*.mgtv.com +direct
 *.mi.com +direct
 *.miaopai.com +direct
 *.miaowuw.com +direct
@@ -501,6 +494,7 @@
 *.newsmth.net +direct
 *.nga.cn +direct
 *.ngacn.cc +direct
+*.niubide.com +direct
 *.nuomi.com +direct
 *.nvidia.cn +direct
 *.obsapp.com +direct
@@ -636,6 +630,7 @@
 *.speedtest.net +direct
 *.springer.com +direct
 *.springerlink.com +direct
+*.sq688.com +direct
 *.sso.buaa.edu.cn +direct
 *.sspai.com +direct
 *.stargame.com +direct
@@ -736,6 +731,8 @@
 *.wodemo.com +direct
 *.wordpress.com +direct
 *.woyoo.com +direct
+*.wsyyxz.com +direct
+*.wusunyinyue.cn +direct
 *.xcar.com.cn +direct
 *.xclient.info +direct
 *.xf9168.com +direct
@@ -743,10 +740,13 @@
 *.xiami.com +direct
 *.xiangha.com +direct
 *.xiaomi.com +direct
+*.xichadian.com +direct
+*.ximalaya.com +direct
 *.xinhuanet.com +direct
 *.xitu.io +direct
 *.xkcd.com +direct
 *.xldns.net +direct
+*.xmcdn.com +direct
 *.xnimg.cn +direct
 *.xnpic.com +direct
 *.xs8.cn +direct
@@ -786,6 +786,7 @@
 *.zaih.com +direct
 *.zaixian-fanyi.com +direct
 *.zcool.com.cn +direct
+*.zdfans.com +direct
 *.zhan.com +direct
 *.zhangyao.name +direct
 *.zhanqi.tv +direct
@@ -801,5 +802,6 @@
 *.zol.com.cn +direct
 *.zuk.cn +direct
 219.224.146.163 +direct
+
 
 * +panda
