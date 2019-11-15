@@ -1,6 +1,7 @@
 [SwitchyOmega Conditions]
 @with result
 
+*.mpyit.com +direct
 *.06climate.com +direct
 *.10010.com +direct
 *.10086.cn +direct
