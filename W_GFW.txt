@@ -385,7 +385,6 @@
 *.kingsoft.com +direct
 *.kmf.com +direct
 *.knownsec.com +direct
-*.koolshare.cn +direct
 *.krspace.cn +direct
 *.ksyun.com +direct
 *.ku6.com +direct
