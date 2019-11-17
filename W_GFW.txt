@@ -1,6 +1,8 @@
 [SwitchyOmega Conditions]
 @with result
 
+*.17dm.com +direct
+*.fzdm.com +direct
 *.romzhijia.net +direct
 *.mpyit.com +direct
 *.06climate.com +direct
