@@ -1,6 +1,7 @@
 [SwitchyOmega Conditions]
 @with result
 
+*.cwpanet.com +direct
 *.17dm.com +direct
 *.fzdm.com +direct
 *.romzhijia.net +direct
