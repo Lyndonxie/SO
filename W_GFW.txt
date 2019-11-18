@@ -1,11 +1,6 @@
 [SwitchyOmega Conditions]
 @with result
 
-*.cwpanet.com +direct
-*.17dm.com +direct
-*.fzdm.com +direct
-*.romzhijia.net +direct
-*.mpyit.com +direct
 *.06climate.com +direct
 *.10010.com +direct
 *.10086.cn +direct
@@ -19,6 +14,7 @@
 *.17173.com +direct
 *.178.com +direct
 *.17ce.com +direct
+*.17dm.com +direct
 *.17k.com +direct
 *.189.cn +direct
 *.18wk.com +direct
@@ -201,6 +197,7 @@
 *.ct10000.com +direct
 *.ctex.org +direct
 *.ctrip.com +direct
+*.cwpanet.com +direct
 *.d7edrf0ezfn0g.cloudfront.net +direct
 *.d7vg.com +direct
 *.dandanplay.com +direct
@@ -260,6 +257,7 @@
 *.freebuf.com +direct
 *.freetranslation.com +direct
 *.fugetech.com +direct
+*.fzdm.com +direct
 *.gamersky.com +direct
 *.ganji.com +direct
 *.gank.io +direct
@@ -478,6 +476,7 @@
 *.mosoteach.cn +direct
 *.moulem.com +direct
 *.moulem.com +direct
+*.mpyit.com +direct
 *.msftconnecttest.com +direct
 *.mtyun.com +direct
 *.muchong.com +direct
@@ -579,6 +578,7 @@
 *.rlcdn.com +direct
 *.rom.cn +direct
 *.rom.mk +direct
+*.romzhijia.net +direct
 *.rongcloud.cn +direct
 *.rrfmn.com +direct
 *.rrimg.com +direct
@@ -806,6 +806,5 @@
 *.zol.com.cn +direct
 *.zuk.cn +direct
 219.224.146.163 +direct
-
 
 * +panda
