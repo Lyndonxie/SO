@@ -1,6 +1,9 @@
 [SwitchyOmega Conditions]
 @with result
 
+*.sxsky.net +direct
+*.jinchutou.com +direct
+*.yxlunwen.com +direct
 *.06climate.com +direct
 *.10010.com +direct
 *.10086.cn +direct
