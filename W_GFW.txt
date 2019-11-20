@@ -1,6 +1,7 @@
 [SwitchyOmega Conditions]
 @with result
 
+*.book118.com +direct
 *.techweb.com.cn +direct
 *.bjmcdl.org +direct
 *.sblunwen.com +direct
