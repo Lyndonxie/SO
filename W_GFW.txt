@@ -1,6 +1,7 @@
 [SwitchyOmega Conditions]
 @with result
 
+*.iyeya.cn +direct
 *.sxsky.net +direct
 *.jinchutou.com +direct
 *.yxlunwen.com +direct
