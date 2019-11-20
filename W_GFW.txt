@@ -1,6 +1,9 @@
 [SwitchyOmega Conditions]
 @with result
 
+*.techweb.com.cn +direct
+*.bjmcdl.org +direct
+*.sblunwen.com +direct
 *.iyeya.cn +direct
 *.sxsky.net +direct
 *.jinchutou.com +direct
