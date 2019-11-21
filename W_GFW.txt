@@ -1,6 +1,8 @@
 [SwitchyOmega Conditions]
 @with result
 
+*.danaodong.cn +direct
+*.youlu.net +direct
 *.cast.cn +direct
 *.book118.com +direct
 *.techweb.com.cn +direct
