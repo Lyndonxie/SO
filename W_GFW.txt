@@ -819,4 +819,4 @@
 *.zuk.cn +direct
 219.224.146.163 +direct
 
-* +panda
+
