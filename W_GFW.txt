@@ -1,6 +1,8 @@
 [SwitchyOmega Conditions]
 @with result
 
+*.weixinbridge.com +direct
+*.klink.tech +direct
 *.cnki.com.cn +direct
 *.danaodong.cn +direct
 *.youlu.net +direct
