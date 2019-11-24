@@ -1,6 +1,7 @@
 [SwitchyOmega Conditions]
 @with result
 
+*.cr173.com +direct
 *.weixinbridge.com +direct
 *.klink.tech +direct
 *.cnki.com.cn +direct
