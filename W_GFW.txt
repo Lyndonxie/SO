@@ -1,6 +1,8 @@
 [SwitchyOmega Conditions]
 @with result
 
+*.ccxtcx.com +direct
+*.ctex.cn +direct
 *.51pptmoban.com +direct
 *.cr173.com +direct
 *.weixinbridge.com +direct
