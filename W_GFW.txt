@@ -1,26 +1,6 @@
 [SwitchyOmega Conditions]
 @with result
 
-*.ggss.site +direct
-*.99lb.net +direct
-*.ccxtcx.com +direct
-*.ctex.cn +direct
-*.51pptmoban.com +direct
-*.cr173.com +direct
-*.weixinbridge.com +direct
-*.klink.tech +direct
-*.cnki.com.cn +direct
-*.danaodong.cn +direct
-*.youlu.net +direct
-*.cast.cn +direct
-*.book118.com +direct
-*.techweb.com.cn +direct
-*.bjmcdl.org +direct
-*.sblunwen.com +direct
-*.iyeya.cn +direct
-*.sxsky.net +direct
-*.jinchutou.com +direct
-*.yxlunwen.com +direct
 *.06climate.com +direct
 *.10010.com +direct
 *.10086.cn +direct
@@ -60,6 +40,7 @@
 *.51.la +direct
 *.51cto.com +direct
 *.51job.com +direct
+*.51pptmoban.com +direct
 *.51xuexi8.com +direct
 *.52pojie.cn +direct
 *.52pojie.cn +direct
@@ -74,6 +55,7 @@
 *.91.com +direct
 *.91flac.com +direct
 *.91sotu.com +direct
+*.99lb.net +direct
 *.acfun.cn +direct
 *.acfun.tv +direct
 *.acg.tv +direct
@@ -145,11 +127,13 @@
 *.biligame.com +direct
 *.biligame.net +direct
 *.bing.com +direct
+*.bjmcdl.org +direct
 *.blackyau.cc +direct
 *.blizzard.cn +direct
 *.blizzardgames.cn +direct
 *.blogjava.net +direct
 *.boc.cn +direct
+*.book118.com +direct
 *.bootcdn.cn +direct
 *.bootcss.com +direct
 *.bootcss.com +direct
@@ -167,7 +151,9 @@
 *.caixinglobal.com +direct
 *.carflac.com +direct
 *.cas.cn +direct
+*.cast.cn +direct
 *.cctv.com +direct
+*.ccxtcx.com +direct
 *.cdn.jsdelivr.net +direct
 *.cdnbee.com +direct
 *.cdndm.com +direct
@@ -191,6 +177,7 @@
 *.cnbeta.com +direct
 *.cnblogs.com +direct
 *.cnblogs.com +direct
+*.cnki.com.cn +direct
 *.cnki.net +direct
 *.cnki.net +direct
 *.cn-ki.net +direct
@@ -208,6 +195,7 @@
 *.coolapk.com +direct
 *.coolpad.com +direct
 *.cqvip.com +direct
+*.cr173.com +direct
 *.csair.com +direct
 *.csdn.net +direct
 *.csdn.net +direct
@@ -215,11 +203,13 @@
 *.css.net +direct
 *.css.network +direct
 *.ct10000.com +direct
+*.ctex.cn +direct
 *.ctex.org +direct
 *.ctrip.com +direct
 *.cwpanet.com +direct
 *.d7edrf0ezfn0g.cloudfront.net +direct
 *.d7vg.com +direct
+*.danaodong.cn +direct
 *.dandanplay.com +direct
 *.daocloud.io +direct
 *.datagrand.com +direct
@@ -285,6 +275,7 @@
 *.getfedora.org +direct
 *.getui.com +direct
 *.gfan.com +direct
+*.ggss.site +direct
 *.gitee.com +direct
 *.github.com +direct
 *.githubapp.com +direct
@@ -374,6 +365,7 @@
 *.iteye.com +direct
 *.ithome.com +direct
 *.ixueshu.com +direct
+*.iyeya.cn +direct
 *.j.cn +direct
 *.jandan.net +direct
 *.javaeye.com +direct
@@ -391,6 +383,7 @@
 *.jiathis.com +direct
 *.jiemian.com +direct
 *.jikexueyuan.com +direct
+*.jinchutou.com +direct
 *.jinshuju.net +direct
 *.jisuanke.com +direct
 *.jomodns.com +direct
@@ -405,6 +398,7 @@
 *.kekenet.com +direct
 *.kf5.com +direct
 *.kingsoft.com +direct
+*.klink.tech +direct
 *.kmf.com +direct
 *.knownsec.com +direct
 *.krspace.cn +direct
@@ -611,6 +605,7 @@
 *.sandai.net +direct
 *.sarm.net +direct
 *.sb.sb +direct
+*.sblunwen.com +direct
 *.sciencedirect.com +direct
 *.sciencedirect.com +direct
 *.sciencedirectassets.com +direct
@@ -664,6 +659,7 @@
 *.steampowered.com +direct
 *.suning.com +direct
 *.swapteam.cn +direct
+*.sxsky.net +direct
 *.sznews.com +direct
 *.t.tt +direct
 *.tahua.net +direct
@@ -675,6 +671,7 @@
 *.tapimg.com +direct
 *.taptap.com +direct
 *.tbcdn.cn +direct
+*.techweb.com.cn +direct
 *.tencent.com +direct
 *.tencent.com +direct
 *.tencentmind.com +direct
@@ -744,6 +741,7 @@
 *.weidunewtab.com +direct
 *.weiosx.com +direct
 *.weixin.qq.com +direct
+*.weixinbridge.com +direct
 *.weiyun.com +direct
 *.weizhang8.cn +direct
 *.wepe.com.cn +direct
@@ -800,12 +798,14 @@
 *.youdao.com +direct
 *.youku.com +direct
 *.youku.com +direct
+*.youlu.net +direct
 *.youth.cn +direct
 *.yuhuage.net +direct
 *.yunpian.com +direct
 *.yunshipei.com +direct
 *.yuxunzy.com +direct
 *.yxdm.tv +direct
+*.yxlunwen.com +direct
 *.yy.com +direct
 *.zaih.com +direct
 *.zaixian-fanyi.com +direct
@@ -826,5 +826,4 @@
 *.zol.com.cn +direct
 *.zuk.cn +direct
 219.224.146.163 +direct
-
 
