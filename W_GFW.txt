@@ -1,6 +1,8 @@
 [SwitchyOmega Conditions]
 @with result
 
+*.ggss.site +direct
+*.99lb.net +direct
 *.ccxtcx.com +direct
 *.ctex.cn +direct
 *.51pptmoban.com +direct
