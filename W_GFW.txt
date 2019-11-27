@@ -1,6 +1,7 @@
 [SwitchyOmega Conditions]
 @with result
 
+*.shufe.edu.cn +direct
 *.wyzxwk.com +direct
 *.06climate.com +direct
 *.10010.com +direct
