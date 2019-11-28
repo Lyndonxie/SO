@@ -273,7 +273,6 @@
 *.fir.im +direct
 *.fliggy.com +direct
 *.flow.ci +direct
-*.fredo-dedup.github.io +direct
 *.freebuf.com +direct
 *.freetranslation.com +direct
 *.fugetech.com +direct
@@ -287,9 +286,6 @@
 *.gfan.com +direct
 *.ggss.site +direct
 *.gitee.com +direct
-*.github.com +direct
-*.githubapp.com +direct
-*.github-production-upload-manifest-file-7fdce7.s3.amazonaws.com +direct
 *.git-scm.com +direct
 *.gmw.cn +direct
 *.golaravel.com +direct
@@ -546,7 +542,6 @@
 *.paipai.com +direct
 *.panda.tv +direct
 *.patentstar.com.cn +direct
-*.paveldogreat.github.io +direct
 *.pcbeta.com +direct
 *.pdawiki.com +direct
 *.pdcicons.ml +direct
@@ -590,7 +585,6 @@
 *.qunar.com +direct
 *.quzhuanpan.com +direct
 *.qy.net +direct
-*.rainmeter.net +direct
 *.rambler.ru +direct
 *.remixicon.com +direct
 *.renren.com +direct
@@ -742,7 +736,6 @@
 *.w3school.com.cn +direct
 *.waerfa.com +direct
 *.wandoujia.com +direct
-*.wangyasai.github.io +direct
 *.wanmei.com +direct
 *.webofknowledge.com +direct
 *.wechat.com +direct
