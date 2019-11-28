@@ -1,6 +1,14 @@
 [SwitchyOmega Conditions]
 @with result
 
+*.qsptv.com +direct
+*.wandhi.com +direct
+*.618g.com +direct
+*.yyoyyu.com +direct
+*.heiye.cc +direct
+*.eggvod.cn +direct
+*.fengchedm.com +direct
+*.anydaily.com +direct
 *.shufe.edu.cn +direct
 *.wyzxwk.com +direct
 *.06climate.com +direct
