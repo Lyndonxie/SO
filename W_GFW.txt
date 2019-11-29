@@ -1,6 +1,7 @@
 [SwitchyOmega Conditions]
 @with result
 
+*.111book.icu +direct
 *.lsdy.top +direct
 *.qsptv.com +direct
 *.wandhi.com +direct
