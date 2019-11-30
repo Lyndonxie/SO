@@ -1,6 +1,9 @@
 [SwitchyOmega Conditions]
 @with result
 
+192.168.2.122 +direct
+*.xiaomi.cn +direct
+*.miwifi.com +direct
 *.111book.icu +direct
 *.lsdy.top +direct
 *.qsptv.com +direct
