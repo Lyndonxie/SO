@@ -1,6 +1,7 @@
 [SwitchyOmega Conditions]
 @with result
 
+*.imiku.me +panda
 *.192ly.com +direct
 *.aisoa.cn +direct
 192.168.2.122 +direct
