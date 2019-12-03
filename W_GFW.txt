@@ -657,7 +657,6 @@
 *.soufun.com +direct
 *.sounm.com +direct
 *.spb.gov.cn +direct
-*.speedtest.net +direct
 *.springer.com +direct
 *.springerlink.com +direct
 *.sq688.com +direct
