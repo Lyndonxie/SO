@@ -1,6 +1,9 @@
 [SwitchyOmega Conditions]
 @with result
 
+192.168.2.1 +direct
+192.168.2.253 +direct
+192.168.1.1 +direct
 *.rarbg.to +direct
 *.192ly.com +direct
 *.aisoa.cn +direct
