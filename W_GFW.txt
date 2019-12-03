@@ -1,7 +1,7 @@
 [SwitchyOmega Conditions]
 @with result
 
-*.imiku.me +panda
+*.rarbg.to +direct
 *.192ly.com +direct
 *.aisoa.cn +direct
 192.168.2.122 +direct
@@ -235,7 +235,6 @@
 *.ddos.cc +direct
 *.deepin.com +direct
 *.deepin.org +direct
-*.desktop-screens.com +direct
 *.dianping.com +direct
 *.dict.cn +direct
 *.dilidili.com +direct
@@ -356,7 +355,6 @@
 *.ilovematlab.cn +direct
 *.im9.com +direct
 *.i-meto.com +direct
-*.imiku.me +direct
 *.imjad.cn +direct
 *.imooc.com +direct
 *.imoongo.com +direct
