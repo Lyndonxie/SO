@@ -1,6 +1,11 @@
 [SwitchyOmega Conditions]
 @with result
 
+*.oxrm.com +direct
+*.yxad.com +direct
+*.acc5.com +direct
+*.gold600.com +direct
+*.911cha.com +direct
 *.huoyumi.com +direct
 10.*.*.* +direct
 127.*.*.* +direct
