@@ -1,6 +1,7 @@
 [SwitchyOmega Conditions]
 @with result
 
+*.huoyumi.com +direct
 10.*.*.* +direct
 127.*.*.* +direct
 172.16.*.* +direct
