@@ -1,6 +1,8 @@
 [SwitchyOmega Conditions]
 @with result
 
+*.openwrt.org.cn +direct
+*.pandownload.com +direct
 *.oxrm.com +direct
 *.yxad.com +direct
 *.acc5.com +direct
@@ -490,9 +492,6 @@
 *.maoyan.com +direct
 *.masadora.net +direct
 *.materializecss.cn +direct
-*.mathworks.cn +direct
-*.mathworks.com +direct
-*.mathworks.com +direct
 *.matplotlib.org +direct
 *.maxfox.me +direct
 *.mcbbs.net +direct
