@@ -1,6 +1,8 @@
 [SwitchyOmega Conditions]
 @with result
 
+*.bkill.com +direct
+*.pconline.com.cn +direct
 *.openwrt.org.cn +direct
 *.pandownload.com +direct
 *.oxrm.com +direct
