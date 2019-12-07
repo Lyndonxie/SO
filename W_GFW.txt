@@ -1,6 +1,8 @@
 [SwitchyOmega Conditions]
 @with result
 
+*.localhost +direct
+*.962.net +direct
 *.bkill.com +direct
 *.pconline.com.cn +direct
 *.openwrt.org.cn +direct
