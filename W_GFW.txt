@@ -1,6 +1,9 @@
 [SwitchyOmega Conditions]
 @with result
 
+*.smzy.com +direct
+*.pc6.com +direct
+*.avip.fun +direct
 *.localhost +direct
 *.962.net +direct
 *.bkill.com +direct
