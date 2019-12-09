@@ -1,6 +1,9 @@
 [SwitchyOmega Conditions]
 @with result
 
+*.isharepc.com +direct
+*.11684.com +direct
+*.downxia.com +direct
 *.kuliu.com +direct
 *.smzy.com +direct
 *.pc6.com +direct
