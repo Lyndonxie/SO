@@ -1,6 +1,7 @@
 [SwitchyOmega Conditions]
 @with result
 
+*.kuliu.com +direct
 *.smzy.com +direct
 *.pc6.com +direct
 *.avip.fun +direct
