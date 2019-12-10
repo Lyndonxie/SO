@@ -1,7 +1,9 @@
 [SwitchyOmega Conditions]
 @with result
 
-
+*.cnplugins.com +direct
+*.chromecj.com +direct
+*.extfans.com +direct
 *.*.*.edu.cn +direct
 *.*.edu.cn +direct
 *.06climate.com +direct
