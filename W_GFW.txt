@@ -1,6 +1,8 @@
 [SwitchyOmega Conditions]
 @with result
 
+*.*.edu.cn +direct
+*.*.*.edu.cn +direct
 *.huat.edu.cn +direct
 *.hqew.com +direct
 *.zju.edu.cn +direct
