@@ -1,6 +1,8 @@
 [SwitchyOmega Conditions]
 @with result
 
+*.3h3.com +direct
+*.odmail.cn +direct
 *.cnplugins.com +direct
 *.chromecj.com +direct
 *.extfans.com +direct
