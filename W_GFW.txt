@@ -529,7 +529,6 @@
 *.nuomi.com +direct
 *.nvidia.cn +direct
 *.obsapp.com +direct
-*.odmail.cn +direct
 *.oekaki.so +direct
 *.omico.me +direct
 *.oneplus.cn +direct
