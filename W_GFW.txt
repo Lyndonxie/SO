@@ -1,6 +1,8 @@
 [SwitchyOmega Conditions]
 @with result
 
+*.nvtnet.com +direct
+*.maguang.net +direct
 *.ditiezu.com +direct
 *.kdslife.com +direct
 *.7down.com +direct
