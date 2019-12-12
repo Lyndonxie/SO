@@ -1,6 +1,9 @@
 [SwitchyOmega Conditions]
 @with result
 
+*.ditiezu.com +direct
+*.kdslife.com +direct
+*.7down.com +direct
 *.3h3.com +direct
 *.odmail.cn +direct
 *.cnplugins.com +direct
