@@ -1,6 +1,7 @@
 [SwitchyOmega Conditions]
 @with result
 
+*.qsptv.net +direct
 *.ypojie.com +direct
 *.nvtnet.com +direct
 *.maguang.net +direct
