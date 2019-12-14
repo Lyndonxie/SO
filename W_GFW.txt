@@ -1,6 +1,10 @@
 [SwitchyOmega Conditions]
 @with result
 
+*.*.*.cn +direct
+*.haoword.com +direct
+*.jianlimoban.net +direct
+*.xuexila.com +direct
 *.best1987.com +direct
 *.huanjugu.com +direct
 *.22tu.cc +direct
