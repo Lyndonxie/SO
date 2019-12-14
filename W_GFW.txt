@@ -1,6 +1,11 @@
 [SwitchyOmega Conditions]
 @with result
 
+*.best1987.com +direct
+*.huanjugu.com +direct
+*.22tu.cc +direct
+*.xdytt.com +direct
+*.tonghuacun.com +direct
 *.qsptv.net +direct
 *.ypojie.com +direct
 *.nvtnet.com +direct
