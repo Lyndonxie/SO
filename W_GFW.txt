@@ -1,6 +1,7 @@
 [SwitchyOmega Conditions]
 @with result
 
+*.win7999.com +direct
 *.hack520.com +direct
 *.liuxue86.com +direct
 *.*.*.cn +direct
