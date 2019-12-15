@@ -1,6 +1,8 @@
 [SwitchyOmega Conditions]
 @with result
 
+*.hack520.com +direct
+*.liuxue86.com +direct
 *.*.*.cn +direct
 *.haoword.com +direct
 *.jianlimoban.net +direct
