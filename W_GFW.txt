@@ -1,6 +1,9 @@
 [SwitchyOmega Conditions]
 @with result
 
+*.cn +direct
+*.*.cn +direct
+*.*.*.cn +direct
 *.*.*.*.cn +direct
 *.06climate.com +direct
 *.10010.com +direct
