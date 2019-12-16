@@ -1,6 +1,10 @@
 [SwitchyOmega Conditions]
 @with result
 
+*.hi1718.com +direct
+*.51sole.com +direct
+*.bmlink.com +direct
+*.kuyibu.com +direct
 *.cn +direct
 *.*.cn +direct
 *.*.*.cn +direct
