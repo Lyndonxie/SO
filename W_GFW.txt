@@ -764,8 +764,6 @@
 *.zhujike.com +direct
 *.zimuzu.tv +direct
 *.znyj365.com +direct
-@with result
-[SwitchyOmega Conditions]
 10.*.*.* +direct
 127.*.*.* +direct
 172.16.*.* +direct
@@ -785,5 +783,4 @@
 172.30.*.* +direct
 172.31.*.* +direct
 192.168.*.* +direct
-192.168.2.122 +direct
 219.224.146.163 +direct
