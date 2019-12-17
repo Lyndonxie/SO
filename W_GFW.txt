@@ -1,6 +1,11 @@
 [SwitchyOmega Conditions]
 @with result
 
+*.somode.com +direct
+*.dianyuan.com +direct
+*.pudn.com +direct
+*.5down.net +direct
+*.zhanshaoyi.com +direct
 *.hi1718.com +direct
 *.51sole.com +direct
 *.bmlink.com +direct
