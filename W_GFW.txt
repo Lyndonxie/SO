@@ -1,6 +1,7 @@
 [SwitchyOmega Conditions]
 @with result
 
+*.trix360.com +direct
 *.somode.com +direct
 *.dianyuan.com +direct
 *.pudn.com +direct
