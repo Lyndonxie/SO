@@ -1,6 +1,7 @@
 [SwitchyOmega Conditions]
 @with result
 
+*.ctfile.com +direct
 *.trix360.com +direct
 *.somode.com +direct
 *.dianyuan.com +direct
