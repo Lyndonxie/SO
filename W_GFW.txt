@@ -1,6 +1,8 @@
 [SwitchyOmega Conditions]
 @with result
 
+*.kugua100.xyz +direct
+*.yeshen.com +direct
 *.1684sm.com +direct
 *.kiteshow.com +direct
 *.smyy6080.com +direct
