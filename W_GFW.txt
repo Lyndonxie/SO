@@ -1,6 +1,10 @@
 [SwitchyOmega Conditions]
 @with result
 
+*.1684sm.com +direct
+*.kiteshow.com +direct
+*.smyy6080.com +direct
+*.pinggu.org +direct
 *.ctfile.com +direct
 *.trix360.com +direct
 *.somode.com +direct
