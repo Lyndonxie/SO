@@ -1,6 +1,7 @@
 [SwitchyOmega Conditions]
 @with result
 
+*.biancheng.net +direct
 *.mycodes.net +direct
 *.kugua100.xyz +direct
 *.yeshen.com +direct
