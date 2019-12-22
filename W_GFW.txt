@@ -1,5 +1,7 @@
 [SwitchyOmega Conditions]
 @with result
+
+*.yuedu88.com +direct
 *.lfhacks.com +direct
 *.joinquant.com +direct
 *.it1352.com +direct
