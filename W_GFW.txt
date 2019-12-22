@@ -1,6 +1,8 @@
 [SwitchyOmega Conditions]
 @with result
 
+*.touduyu.com +direct
+*.youdict.com +direct
 *.yuedu88.com +direct
 *.lfhacks.com +direct
 *.joinquant.com +direct
