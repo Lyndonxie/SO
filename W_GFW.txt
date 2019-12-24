@@ -1,6 +1,7 @@
 [SwitchyOmega Conditions]
 @with result
 
+*.superlib.net +direct
 *.touduyu.com +direct
 *.youdict.com +direct
 *.yuedu88.com +direct
