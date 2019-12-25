@@ -1,6 +1,12 @@
 [SwitchyOmega Conditions]
 @with result
 
+*.zcang.cn +direct
+*.smzb.io +direct
+*.zhuafan.live +direct
+*.qiuw.com +direct
+*.azhibo.com +direct
+*.zhiwutong.com +direct
 *.superlib.net +direct
 *.touduyu.com +direct
 *.youdict.com +direct
