@@ -1,6 +1,12 @@
 [SwitchyOmega Conditions]
 @with result
 
+*.xiazaiba.com +direct
+*.crsky.com +direct
+*.kuhou.com +direct
+*.kuaihou.com +direct
+*.xdowns.com +direct
+*.fxxz.com +direct
 *.zcang.cn +direct
 *.smzb.io +direct
 *.zhuafan.live +direct
