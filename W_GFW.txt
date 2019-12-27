@@ -1,6 +1,7 @@
 [SwitchyOmega Conditions]
 @with result
 
+*.ipv4.fiddler +direct
 *.*.*.*.*.cn +direct
 *.*.*.*.cn +direct
 *.*.*.cn +direct
