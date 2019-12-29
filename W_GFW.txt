@@ -1,7 +1,9 @@
 [SwitchyOmega Conditions]
 @with result
 
-*.ipv4.fiddler +direct
+*.ipv4.fiddler*.sigma-rt.com +direct
+*.wmzhe.com +direct
+*.mz6.net +direct +direct
 *.*.*.*.*.cn +direct
 *.*.*.*.cn +direct
 *.*.*.cn +direct
