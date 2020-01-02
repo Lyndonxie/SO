@@ -1,5 +1,7 @@
 [SwitchyOmega Conditions]
 @with result
+
+*.juejin.im +direct
 *.acgvideo.com +direct
 *.vlogdownloader.com +direct
 *.budarts.com +direct
