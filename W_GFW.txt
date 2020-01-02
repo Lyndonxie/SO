@@ -1,6 +1,7 @@
 [SwitchyOmega Conditions]
 @with result
-
+*.acgvideo.com +direct
+*.vlogdownloader.com +direct
 *.budarts.com +direct
 *.centbrowser.com +direct
 *.ipv4.fiddler*.sigma-rt.com +direct
