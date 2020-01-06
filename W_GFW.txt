@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 @with result
-
+*.zto.com +direct
 *.juejin.im +direct
 *.acgvideo.com +direct
 *.vlogdownloader.com +direct
