@@ -1,5 +1,14 @@
 [SwitchyOmega Conditions]
 @with result
+
+*.gto365.im +direct
+*.kuaidi100.com +direct
+*.gto365.com +direct
+*.sure56.com +direct
+*.ttkdex.com +direct
+*.800bestex.com +direct
+*.yundaex.com +direct
+*.kuaidi.com +direct
 *.zto.com +direct
 *.juejin.im +direct
 *.acgvideo.com +direct
