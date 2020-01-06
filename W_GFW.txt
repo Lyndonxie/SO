@@ -690,7 +690,6 @@
 *.tuicool.com +direct
 *.tuna.moe +direct
 *.tuniu.com +direct
-*.twimg.com +direct
 *.u9u9.com +direct
 *.ugediao.com +direct
 *.uisdc.com +direct
