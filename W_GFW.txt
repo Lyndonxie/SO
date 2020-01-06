@@ -189,7 +189,6 @@
 *.chromecj.com +direct
 *.chuangzaoshi.com +direct
 *.cli.im +direct
-*.cloudinary.com +direct
 *.cloudxns.net +direct
 *.cn +direct
 *.cnbeta.com +direct
