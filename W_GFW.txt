@@ -1,6 +1,9 @@
 [SwitchyOmega Conditions]
 @with result
 
+*.ctrip.com +direct
+*.qq.com +direct
+*.ccrgt.com +direct
 *.gto365.im +direct
 *.kuaidi100.com +direct
 *.gto365.com +direct
