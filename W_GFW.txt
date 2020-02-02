@@ -1,6 +1,14 @@
 [SwitchyOmega Conditions]
 @with result
 
+*.downcc.com +direct
+*.5aixia.com +direct
+*.2265.com +direct
+*.wuzuowei.net +direct
+*.dtshot.com +direct
+*.15kankan.com +direct
+*.flac123.com +direct
+*.alal.al +direct
 *.ctrip.com +direct
 *.qq.com +direct
 *.ccrgt.com +direct
