@@ -1,6 +1,7 @@
 [SwitchyOmega Conditions]
 @with result
 
+*.vhall.com +direct
 *.downcc.com +direct
 *.5aixia.com +direct
 *.2265.com +direct
