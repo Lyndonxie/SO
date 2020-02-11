@@ -1,6 +1,9 @@
 [SwitchyOmega Conditions]
 @with result
 
+*.youzan.com +direct
+*.dushu369.com +direct
+*.shangyexinzhi.com +direct
 *.vhall.com +direct
 *.downcc.com +direct
 *.5aixia.com +direct
