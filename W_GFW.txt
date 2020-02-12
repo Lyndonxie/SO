@@ -1,6 +1,7 @@
 [SwitchyOmega Conditions]
 @with result
 
+*.edifier.com +direct
 *.youzan.com +direct
 *.dushu369.com +direct
 *.shangyexinzhi.com +direct
