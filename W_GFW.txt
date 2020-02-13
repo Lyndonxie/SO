@@ -1,6 +1,8 @@
 [SwitchyOmega Conditions]
 @with result
 
+*.chaoxing.com +direct
+*.xuexi365.com +direct
 *.dangdang.com +direct
 *.chainnews.com +direct
 *.ilovematlab.com +direct
