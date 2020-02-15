@@ -1,6 +1,8 @@
 [SwitchyOmega Conditions]
 @with result
 
+*.chinanews.com +direct
+*.dgtle.com +direct
 *.chaoxing.com +direct
 *.xuexi365.com +direct
 *.dangdang.com +direct
