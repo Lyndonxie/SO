@@ -1,6 +1,13 @@
 [SwitchyOmega Conditions]
 @with result
 
+*.*.*.org +direct
+*.*.org +direct
+*.org +direct
+*.nextcomputers.org +direct
+*.macintoshgarden.org +direct
+*.68kmla.org +direct
+*.paizhang.info +direct
 *.chinanews.com +direct
 *.dgtle.com +direct
 *.chaoxing.com +direct
