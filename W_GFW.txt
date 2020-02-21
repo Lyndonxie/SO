@@ -1,6 +1,11 @@
 [SwitchyOmega Conditions]
 @with result
 
+*.ipadown.com +direct
+*.zeddicus.com +direct
+*.xitongtiandi.net +direct
+*.xitongcheng.com +direct
+*.chinafix.com +direct
 *.*.*.org +direct
 *.*.org +direct
 *.org +direct
