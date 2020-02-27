@@ -1,6 +1,10 @@
 [SwitchyOmega Conditions]
 @with result
 
+*.itiankong.net +direct
+*.upe.net +direct
+*.inpower.cc +direct
+*.maccms.com +direct
 *.*.*.*.*.cn +direct
 *.*.*.*.cn +direct
 *.*.*.cn +direct
