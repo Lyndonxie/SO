@@ -1,6 +1,9 @@
 [SwitchyOmega Conditions]
 @with result
 
+*.lechange.com +direct
+*.imoulife.com +direct
+*.jilili.top +direct
 *.itiankong.net +direct
 *.upe.net +direct
 *.inpower.cc +direct
