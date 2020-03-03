@@ -1,6 +1,7 @@
 [SwitchyOmega Conditions]
 @with result
 
+*.boduoys.com +direct
 *.talkyshow.com +direct
 *.btsous.com +direct
 *.kstuotian.com +direct
