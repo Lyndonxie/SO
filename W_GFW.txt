@@ -1,6 +1,18 @@
 [SwitchyOmega Conditions]
 @with result
 
+*.talkyshow.com +direct
+*.btsous.com +direct
+*.kstuotian.com +direct
+*.myapp.com +direct
+*.52pk.com +direct
+*.700gb.com +direct
+*.xijuzh.com +direct
+*.thisav.com +direct
+*.xnxxfap.com +direct
+*.dede18182.com +direct
+*.26buu.com +direct
+*.itmop.com +direct
 *.lechange.com +direct
 *.imoulife.com +direct
 *.jilili.top +direct
