@@ -1,6 +1,11 @@
 [SwitchyOmega Conditions]
 @with result
 
+*.btgat.com +direct
+*.yysq99.com +direct
+*.ssqw58.com +direct
+*.jkj55.com +direct
+*.977906.com +direct
 *.boduoys.com +direct
 *.talkyshow.com +direct
 *.btsous.com +direct
