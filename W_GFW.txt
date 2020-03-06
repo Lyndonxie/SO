@@ -1,6 +1,12 @@
 [SwitchyOmega Conditions]
 @with result
 
+*.ip138.com +direct
+*.160.com +direct
+*.downyi.com +direct
+*.opdown.com +direct
+cn.*.* +direct
+cn.*.*.* +direct
 *.btgat.com +direct
 *.yysq99.com +direct
 *.ssqw58.com +direct
