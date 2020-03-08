@@ -1,6 +1,7 @@
 [SwitchyOmega Conditions]
 @with result
 
+*.posh-e.com +direct
 *.ip138.com +direct
 *.160.com +direct
 *.downyi.com +direct
