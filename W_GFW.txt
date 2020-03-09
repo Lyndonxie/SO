@@ -1,6 +1,9 @@
 [SwitchyOmega Conditions]
 @with result
 
+*.xxx18.cc +direct
+*.piaoling5.com +direct
+*.tuliu.com +direct
 *.posh-e.com +direct
 *.ip138.com +direct
 *.160.com +direct
