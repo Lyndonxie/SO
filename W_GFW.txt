@@ -1,6 +1,14 @@
 [SwitchyOmega Conditions]
 @with result
 
+
+*.weidown.com +direct
+*.xp510.com +direct
+*.ddooo.com +direct
+*.mfcad.com +direct
+*.catialol.com +direct
+*.piaoling5.com +direct
+*.wuyong.fun +direct
 *.xxx18.cc +direct
 *.piaoling5.com +direct
 *.tuliu.com +direct
