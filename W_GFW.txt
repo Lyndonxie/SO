@@ -1,7 +1,8 @@
 [SwitchyOmega Conditions]
 @with result
 
-
+*.197946.com +direct
+*.itsvse.com +direct
 *.weidown.com +direct
 *.xp510.com +direct
 *.ddooo.com +direct
