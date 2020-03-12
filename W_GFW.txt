@@ -1,6 +1,21 @@
 [SwitchyOmega Conditions]
 @with result
 
+*.microsoft.com +direct
+*.visualstudio.com +direct
+*.sdbeta.com +direct
+*.greenxf.com +direct
+*.game234.com +direct
+*.buscodepto.com +direct
+*.qwtcpt.com +direct
+*.wjx.top +direct
+*.voachinese.com +direct
+*.lawesuk.com +direct
+*.360kuai.com +direct
+*.hp.com +direct
+*.windows10zj.com +direct
+*.sydafengshan.com +direct
+*.100xt.com +direct
 *.197946.com +direct
 *.itsvse.com +direct
 *.weidown.com +direct
