@@ -595,7 +595,6 @@
 *.optaim.com +direct
 *.optimix.asia +direct
 *.oray.com +direct
-*.org +direct
 *.oschina.io +direct
 *.oschina.net +direct
 *.oschina.net +direct
