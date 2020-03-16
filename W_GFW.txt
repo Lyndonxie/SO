@@ -1,6 +1,17 @@
 [SwitchyOmega Conditions]
 @with result
 
+*.gugeapps.net +direct
+*.webstr.top +direct
+*.bbbb81.com +direct
+*.g3bag.com +direct
+*.0477xy.com +direct
+*.nwnmc.com +direct
+*.netded.com +direct
+*.mgyun.com +direct
+*.qianzhan.com +direct
+*.zhuayoukong.com +direct
+*.verycang.com +direct
 *.microsoft.com +direct
 *.visualstudio.com +direct
 *.sdbeta.com +direct
