@@ -4,9 +4,7 @@
 *.*.*.*.*.cn +direct
 *.*.*.*.cn +direct
 *.*.*.cn +direct
-*.*.*.org +direct
 *.*.cn +direct
-*.*.org +direct
 *.0477xy.com +direct
 *.06climate.com +direct
 *.10010.com +direct
@@ -824,7 +822,6 @@
 *.weixinbridge.com +direct
 *.weiyun.com +direct
 *.wht.im +direct
-*.wikipedia.* +127
 *.wiley.com +direct
 *.win7999.com +direct
 *.windows10zj.com +direct
@@ -950,5 +947,3 @@
 219.224.146.163 +direct
 cn.*.* +direct
 cn.*.*.* +direct
-
-
