@@ -1,6 +1,9 @@
 [SwitchyOmega Conditions]
 @with result
 
+*.pornhub.* +127
+*.southmoney.com +direct
+*.wikipedia.* +127
 *.gugeapps.net +direct
 *.webstr.top +direct
 *.bbbb81.com +direct
