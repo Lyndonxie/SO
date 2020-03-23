@@ -1,6 +1,16 @@
 [SwitchyOmega Conditions]
 @with result
 
+*.mi-img.com +direct
+*.xiaomi.net +direct
+*.so138.com +direct
+*.pipaw.com +direct
+*.zybang.com +direct
+*.cibntv.net +direct
+*.dxsbb.com +direct
+*.doc88.com +direct
+*.wywyx.com +direct
+*.sobt0.com +direct
 *.*.*.*.*.cn +direct
 *.*.*.*.cn +direct
 *.*.*.cn +direct
