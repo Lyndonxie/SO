@@ -1,6 +1,12 @@
 [SwitchyOmega Conditions]
 @with result
 
+*.qx162.com +direct
+*.cqt8.com +direct
+*.ssdax.com +direct
+*.lenovomm.com +direct
+*.lenovo.com +direct
+*.lotpc.com +direct
 *.mi-img.com +direct
 *.xiaomi.net +direct
 *.so138.com +direct
