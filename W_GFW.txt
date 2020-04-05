@@ -1,6 +1,12 @@
 [SwitchyOmega Conditions]
 @with result
 
+*.2016win10.com +direct
+*.winwin7.com +direct
+*.upantool.com +direct
+*.znds.com +direct
+*.tvapk.net +direct
+*.echoteen.com +direct
 *.qx162.com +direct
 *.cqt8.com +direct
 *.ssdax.com +direct
