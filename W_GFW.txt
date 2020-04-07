@@ -1,6 +1,11 @@
 [SwitchyOmega Conditions]
 @with result
 
+*.pingguolv.com +direct
+*.zw3e.com +direct
+*.zkq8.com +direct
+*.mydown.com +direct
+*.10010wg.com +direct
 *.2016win10.com +direct
 *.winwin7.com +direct
 *.upantool.com +direct
@@ -774,7 +779,6 @@
 *.tenpay.com +direct
 *.tenxcloud.com +direct
 *.tgbus.com +direct
-*.thisav.com +direct
 *.thomsonreuters.com +direct
 *.tianqi.com +direct
 *.tietuku.com +direct
