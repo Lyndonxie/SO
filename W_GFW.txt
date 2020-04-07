@@ -1,6 +1,8 @@
 [SwitchyOmega Conditions]
 @with result
 
+*.huaci.cc +direct
+*.yxdown.com +direct
 *.pingguolv.com +direct
 *.zw3e.com +direct
 *.zkq8.com +direct
