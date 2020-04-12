@@ -29,7 +29,6 @@
 *.dxsbb.com +direct
 *.doc88.com +direct
 *.wywyx.com +direct
-*.sobt0.com +direct
 *.*.*.*.*.cn +direct
 *.*.*.*.cn +direct
 *.*.*.cn +direct
