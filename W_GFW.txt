@@ -1,6 +1,17 @@
 [SwitchyOmega Conditions]
 @with result
 
+*.3li.cc +direct
+*.lanzhouyangsheng.com +direct
+*.downmsn.com +direct
+*.ppkao.com +direct
+*.zf678.com +direct
+*.byingtan.com +direct
+*.yxbao.com +direct
+*.pngsucai.com +direct
+*.lygzhuli.com +direct
+*.herostart.com +direct
+*.118pan.com +direct
 *.huaci.cc +direct
 *.yxdown.com +direct
 *.pingguolv.com +direct
