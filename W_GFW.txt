@@ -1,7 +1,7 @@
 [SwitchyOmega Conditions]
 @with result
 
-
+*.newyx.net +direct
 *.dingdingbao.com +direct
 120.202.17.115 +direct
 *.gtanmod.com +direct
