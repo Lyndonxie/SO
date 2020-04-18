@@ -1,6 +1,15 @@
 [SwitchyOmega Conditions]
 @with result
 
+*.gta5-mods.com +direct
+*.dingdingbao.com +direct
+120.202.17.115 +direct
+*.gtanmod.com +direct
+*.ali213.net +direct
+*.cudown.com +direct
+*.hndazhan.com +direct
+*.youren5.com +direct
+*.kxdw.com +direct
 *.3li.cc +direct
 *.lanzhouyangsheng.com +direct
 *.downmsn.com +direct
