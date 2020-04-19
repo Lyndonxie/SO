@@ -997,5 +997,4 @@
 172.31.*.* +direct
 192.168.*.* +direct
 219.224.146.163 +direct
-cn.*.* +direct
-cn.*.*.* +direct
+
