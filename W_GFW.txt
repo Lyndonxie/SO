@@ -1,6 +1,12 @@
 [SwitchyOmega Conditions]
 @with result
 
+*.zhujiceping.com +direct
+*.xiexialai.com +direct
+*.voorp.com +direct
+*.tvoao.com +direct
+*.da-quan.net +direct
+*.96516.net +direct
 *.newyx.net +direct
 *.dingdingbao.com +direct
 120.202.17.115 +direct
