@@ -1,6 +1,8 @@
 [SwitchyOmega Conditions]
 @with result
 
+*.upandashi.com +direct
+*.99danji.com +direct
 *.zhujiceping.com +direct
 *.xiexialai.com +direct
 *.voorp.com +direct
