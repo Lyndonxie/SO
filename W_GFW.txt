@@ -1,6 +1,16 @@
 [SwitchyOmega Conditions]
 @with result
 
+*.foufu.com +direct
+*.xiaobaishuaji.com +direct
+*.shuame.com +direct
+*.hdpfans.com +direct
+*.yunos.com +direct
+*.tvapk.com +direct
+*.udashi.com +direct
+*.kuai8.com +direct
+*.52movs.com +direct
+*.houxu.app +direct
 *.upandashi.com +direct
 *.99danji.com +direct
 *.zhujiceping.com +direct
