@@ -1,6 +1,14 @@
 [SwitchyOmega Conditions]
 @with result
 
+*.bcebos.com +direct
+*.hackdig.com +direct
+*.cqmmgo.com +direct
+*.hoopchina.com +direct
+*.znj.com +direct
+*.duote.com +direct
+*.yunboso.com +direct
+*.czjiamei.com +direct
 *.foufu.com +direct
 *.xiaobaishuaji.com +direct
 *.shuame.com +direct
