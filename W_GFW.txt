@@ -1,6 +1,9 @@
 [SwitchyOmega Conditions]
 @with result
 
+*.bendibao.com +direct
+*.680.com +direct
+*.0daydown.com +direct
 *.bcebos.com +direct
 *.hackdig.com +direct
 *.cqmmgo.com +direct
