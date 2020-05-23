@@ -1,6 +1,9 @@
 [SwitchyOmega Conditions]
 @with result
 
+*.ghost580.com +direct
+*.anhui10086.com +direct
+*.szken.com +direct
 *.bendibao.com +direct
 *.680.com +direct
 *.0daydown.com +direct
