@@ -1,6 +1,7 @@
 [SwitchyOmega Conditions]
 @with result
 
+*.saylove.com +direct
 *.ghost580.com +direct
 *.anhui10086.com +direct
 *.szken.com +direct
