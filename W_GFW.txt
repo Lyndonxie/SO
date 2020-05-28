@@ -1,6 +1,13 @@
 [SwitchyOmega Conditions]
 @with result
 
+*.hassbian.com +direct
+*.jiaheu.com +direct
+*.xiuchuang.com +direct
+*.zhongguowangshi.com +direct
+*.haoxiangfu8.com +direct
+*.asawyers.com +direct
+*.qiuquan.cc +direct
 *.saylove.com +direct
 *.ghost580.com +direct
 *.anhui10086.com +direct
