@@ -1,6 +1,10 @@
 [SwitchyOmega Conditions]
 @with result
 
+*.xzbu.com +direct
+*.win7w.com +direct
+*.wsf1234.com +direct
+*.w10zj.com +direct
 *.hassbian.com +direct
 *.jiaheu.com +direct
 *.xiuchuang.com +direct
