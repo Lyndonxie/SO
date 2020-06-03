@@ -1,6 +1,10 @@
 [SwitchyOmega Conditions]
 @with result
 
+*.idm.vip +direct
+*.idm.cc +direct
+*.yatu.tv +direct
+*.17house.com +direct
 *.xzbu.com +direct
 *.win7w.com +direct
 *.wsf1234.com +direct
