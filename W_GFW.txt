@@ -1,6 +1,15 @@
 [SwitchyOmega Conditions]
 @with result
 
+*.tianjimedia.com +direct
+*.688wz.net +direct
+*.gtimg.com +direct
+*.svc.ms +direct
+*.sharepoint.com +direct
+*.microsoft.com +direct
+*.akamaihd.net +direct
+*.newtab +direct
+*.microsoftonline.com +direct
 *.idm.vip +direct
 *.idm.cc +direct
 *.yatu.tv +direct
