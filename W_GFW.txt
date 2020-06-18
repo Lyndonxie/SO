@@ -1,6 +1,11 @@
 [SwitchyOmega Conditions]
 @with result
 
+
+*.paopaoche.net +direct
+*.ququyou.com +direct
+*.ludashi.com +direct
+*.oneplus.com +direct
 *.liaochuo.com +direct
 *.90pan.com +direct
 *.ab126.com +direct
