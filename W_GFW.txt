@@ -1,6 +1,9 @@
 [SwitchyOmega Conditions]
 @with result
 
+*.liaochuo.com +direct
+*.90pan.com +direct
+*.ab126.com +direct
 *.tianjimedia.com +direct
 *.688wz.net +direct
 *.gtimg.com +direct
