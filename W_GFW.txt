@@ -1,7 +1,9 @@
 [SwitchyOmega Conditions]
 @with result
 
-
+*.threebody.com +direct
+*.sdnlab.com +direct
+*.htcui.com +direct
 *.paopaoche.net +direct
 *.ququyou.com +direct
 *.ludashi.com +direct
