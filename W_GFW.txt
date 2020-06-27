@@ -1,6 +1,8 @@
 [SwitchyOmega Conditions]
 @with result
 
+*.aigei.com +direct
+*.qunzou.com +direct
 *.threebody.com +direct
 *.sdnlab.com +direct
 *.htcui.com +direct
