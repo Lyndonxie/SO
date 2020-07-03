@@ -1,6 +1,15 @@
 [SwitchyOmega Conditions]
 @with result
 
+*.liangchan.net +direct
+*.gongkong.com +direct
+*.elecfans.com +direct
+*.qupu123.com +direct
+*.gangqinpu.com +direct
+*.guyiren.com +direct
+*.moz8.com +direct
+*.gcores.com +direct
+*.pearvideo.com +direct
 *.aigei.com +direct
 *.qunzou.com +direct
 *.threebody.com +direct
