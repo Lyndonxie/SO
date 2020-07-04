@@ -1,6 +1,9 @@
 [SwitchyOmega Conditions]
 @with result
 
+*.happi123.com +direct
+*.lezhi99.com +direct
+*.leanwind.com +direct
 *.liangchan.net +direct
 *.gongkong.com +direct
 *.elecfans.com +direct
