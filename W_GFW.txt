@@ -1,6 +1,12 @@
 [SwitchyOmega Conditions]
 @with result
-
+*.yulucn.com +direct
+*.zhetiaohe.com +direct
+*.guidechem.com +direct
+*.cnscore.com +direct
+*.fontke.com +direct
+*.jianghang.com +direct
+*.51wendang.com +direct
 *.happi123.com +direct
 *.lezhi99.com +direct
 *.leanwind.com +direct
