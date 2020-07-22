@@ -1,6 +1,11 @@
 [SwitchyOmega Conditions]
 @with result
 
+*.bmfsm.com +direct
+*.guoxuez.com +direct
+*.5000yan.com +direct
+*.guoyi360.com +direct
+*.buyiju.com +direct
 *.exuezhe.com +direct
 *.eee-learning.com +direct
 *.xingzuo.com +direct
