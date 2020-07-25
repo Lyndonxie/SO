@@ -1,6 +1,13 @@
 [SwitchyOmega Conditions]
 @with result
 
+*.biliapi.com +direct
+*.80note.com +direct
+*.biliapi.net +direct
+*.bilivideo.com +direct
+*.18touch.com +direct
+*.18183.com +direct
+*.htcui.com +direct
 *.bmfsm.com +direct
 *.guoxuez.com +direct
 *.5000yan.com +direct
