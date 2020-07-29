@@ -1,6 +1,8 @@
 [SwitchyOmega Conditions]
 @with result
 
+*.pc-fly.com +direct
+*.mingren888.com +direct
 *.biliapi.com +direct
 *.80note.com +direct
 *.biliapi.net +direct
