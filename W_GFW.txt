@@ -1,6 +1,8 @@
 [SwitchyOmega Conditions]
 @with result
 
+*.sogoucdn.com +direct
+*.ruan8.com +direct
 *.pc-fly.com +direct
 *.mingren888.com +direct
 *.biliapi.com +direct
