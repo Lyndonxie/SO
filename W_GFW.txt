@@ -1,6 +1,8 @@
 [SwitchyOmega Conditions]
 @with result
 
+*.cn486.com +direct
+*.htcui.com +direct
 *.sogoucdn.com +direct
 *.ruan8.com +direct
 *.pc-fly.com +direct
