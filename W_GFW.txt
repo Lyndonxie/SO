@@ -1,6 +1,10 @@
 [SwitchyOmega Conditions]
 @with result
 
+*.extfun.com +direct
+*.mipcdn.com +direct
+*.manhuapan.com +direct
+*.ikkdm.com +direct
 *.cn486.com +direct
 *.htcui.com +direct
 *.sogoucdn.com +direct
