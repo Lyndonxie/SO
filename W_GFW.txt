@@ -1,6 +1,7 @@
 [SwitchyOmega Conditions]
 @with result
 
+*.talkop.com +direct
 *.extfun.com +direct
 *.mipcdn.com +direct
 *.manhuapan.com +direct
