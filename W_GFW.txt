@@ -1,6 +1,16 @@
 [SwitchyOmega Conditions]
 @with result
 
+*.ihint.me +direct
+*.manhuadang.net +direct
+*.mhxk.com +direct
+*.eshanyao.com +direct
+*.bootcdn.net +direct
+*.mlxsc.com +direct
+*.manhuabei.com +direct
+*.manhuaren.com +direct
+*.flypy.com +direct
+*.qiyuange.com +direct
 *.talkop.com +direct
 *.extfun.com +direct
 *.mipcdn.com +direct
