@@ -1,6 +1,8 @@
 [SwitchyOmega Conditions]
 @with result
 
+*.byguitar.com +direct
+*.musicbody.net +direct
 *.ihint.me +direct
 *.manhuadang.net +direct
 *.mhxk.com +direct
