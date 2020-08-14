@@ -1,5 +1,8 @@
 [SwitchyOmega Conditions]
 @with result
+
+
+*.dftoutiao.com +direct
 *.vzuu.com +direct
 *.byguitar.com +direct
 *.musicbody.net +direct
