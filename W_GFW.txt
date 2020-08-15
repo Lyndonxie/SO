@@ -1,7 +1,14 @@
 [SwitchyOmega Conditions]
 @with result
 
-
+*.pstatp.com +direct
+*.bq233.com +direct
+*.7junshi.com +direct
+*.steamstatic.com +direct
+*.pinyuncloud.com +direct
+*.boruisz.com +direct
+*.jf258.com +direct
+*.wnzmb.com +direct
 *.dftoutiao.com +direct
 *.vzuu.com +direct
 *.byguitar.com +direct
