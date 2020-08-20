@@ -1,6 +1,11 @@
 [SwitchyOmega Conditions]
 @with result
 
+*.netease.com +direct
+*.tapimg.com +direct
+*.8ryx.com +direct
+*.ldmnq.com +direct
+*.127z.com +direct
 *.pstatp.com +direct
 *.bq233.com +direct
 *.7junshi.com +direct
