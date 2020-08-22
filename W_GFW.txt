@@ -1,6 +1,9 @@
 [SwitchyOmega Conditions]
 @with result
 
+*.mi-img.com +direct
+*.xiaomi.com +direct
+*.d9soft.com +direct
 *.netease.com +direct
 *.tapimg.com +direct
 *.8ryx.com +direct
