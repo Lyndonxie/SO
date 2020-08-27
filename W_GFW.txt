@@ -1,6 +1,11 @@
 [SwitchyOmega Conditions]
 @with result
 
+*.300hu.com +direct
+*.chat-anywhere.com +direct
+*.360buyimg.com +direct
+*.wifizj.com +direct
+*.xianyuso.com +direct
 *.*.*.taobao.com +direct
 *.mi-img.com +direct
 *.xiaomi.com +direct
