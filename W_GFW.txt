@@ -1,6 +1,10 @@
 [SwitchyOmega Conditions]
 @with result
-
+*.wzktys.com +direct
+*.ynzjlt.com +direct
+*.candou.com +direct
+*.icloud.com +direct
+*.htcui.com +direct
 *.*.*.*.*.cn +direct
 *.*.*.*.cn +direct
 *.*.*.cn +direct
