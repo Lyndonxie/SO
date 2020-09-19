@@ -1,5 +1,13 @@
 [SwitchyOmega Conditions]
 @with result
+
+*.yiyouliao.com +direct
+*.msecnd.net +direct
+*.adobedtm.com +direct
+*.s-microsoft.com +direct
+*.akamaized.net +direct
+*.tetimes.com +direct
+*.ucxinwen.com +direct
 *.wzktys.com +direct
 *.ynzjlt.com +direct
 *.candou.com +direct
