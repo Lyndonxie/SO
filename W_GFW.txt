@@ -1,6 +1,9 @@
 [SwitchyOmega Conditions]
 @with result
 
+*.zzzzzz.me +direct
+*.070210.com +direct
+*.ruiwen.com +direct
 *.4399i.net +direct
 *.yiyouliao.com +direct
 *.msecnd.net +direct
