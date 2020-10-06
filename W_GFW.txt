@@ -1,6 +1,11 @@
 [SwitchyOmega Conditions]
 @with result
 
+*.51ape.com +direct
+*.tianjin-qmedu.com +direct
+*.zheyibu.com +direct
+*.zhiye.com +direct
+*.chagesw.cc +direct
 *.zzzzzz.me +direct
 *.070210.com +direct
 *.ruiwen.com +direct
