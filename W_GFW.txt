@@ -1,6 +1,13 @@
 [SwitchyOmega Conditions]
 @with result
 
+*.edgesrv.com +direct
+*.b2b168.com +direct
+*.diannaobos.com +direct
+*.jeepxie.net +direct
+*.tkgame.com +direct
+*.hcbbs.com +direct
+*.fabiaoqing.com +direct
 *.51ape.com +direct
 *.tianjin-qmedu.com +direct
 *.zheyibu.com +direct
@@ -735,7 +742,6 @@
 *.oschina.io +direct
 *.oschina.net +direct
 *.ourdvsss.com +direct
-*.overleaf.com +direct
 *.oxrm.com +direct
 *.paipai.com +direct
 *.paizhang.info +direct
