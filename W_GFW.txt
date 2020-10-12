@@ -1,6 +1,11 @@
 [SwitchyOmega Conditions]
 @with result
 
+*.qinxue.com +direct
+*.wjllj.com +direct
+*.simu-cad.com +direct
+*.gz-dichuan.com +direct
+*.huishangbao.com +direct
 *.edgesrv.com +direct
 *.b2b168.com +direct
 *.diannaobos.com +direct
