@@ -1,6 +1,13 @@
 [SwitchyOmega Conditions]
 @with result
 
+*.cqhheat.com +direct
+*.renrendoc.com +direct
+*.f132.com +direct
+*.yidianzixun.com +direct
+*.xxzhsb.com +direct
+*.qy6.com +direct
+*.comac.cc +direct
 *.qinxue.com +direct
 *.wjllj.com +direct
 *.simu-cad.com +direct
