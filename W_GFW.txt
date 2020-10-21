@@ -1,6 +1,9 @@
 [SwitchyOmega Conditions]
 @with result
 
+*.135editor.com +direct
+*.jobui.com +direct
+*.spacechina.com +direct
 *.cqhheat.com +direct
 *.renrendoc.com +direct
 *.f132.com +direct
