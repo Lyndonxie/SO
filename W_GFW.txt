@@ -1,6 +1,14 @@
 [SwitchyOmega Conditions]
 @with result
 
+*.buildenvi.com +direct
+*.42xz.com +direct
+*.serialssolutions.com +direct
+*.zhangqiaokeyan.com +direct
+*.pianshen.com +direct
+*.latexstudio.net +direct
+*.officezhushou.com +direct
+*.duxiu.com +direct
 *.135editor.com +direct
 *.jobui.com +direct
 *.spacechina.com +direct
