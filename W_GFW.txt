@@ -1,6 +1,9 @@
 [SwitchyOmega Conditions]
 @with result
-
+*.ynshangji.com +direct
+*.bjxingyi.com +direct
+*.11467.com +direct
+*.mqlblower.com +direct
 *.buildenvi.com +direct
 *.42xz.com +direct
 *.serialssolutions.com +direct
