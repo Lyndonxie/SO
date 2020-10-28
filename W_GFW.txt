@@ -1,6 +1,8 @@
 [SwitchyOmega Conditions]
 @with result
 
+*.cnkivip.net +direct
+*.paperccb.com +direct
 *.dt-control.com +direct
 *.lilacbbs.com +direct
 *.douyin.com +direct
