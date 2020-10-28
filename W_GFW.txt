@@ -1,5 +1,15 @@
 [SwitchyOmega Conditions]
 @with result
+
+*.dt-control.com +direct
+*.lilacbbs.com +direct
+*.douyin.com +direct
+*.qianlong.com +direct
+*.gaosan.com +direct
+*.duoxinqi.com +direct
+*.mi-img.com +direct
+*.youkutv.cc +direct
+*.meiyuktv.com +direct
 *.ynshangji.com +direct
 *.bjxingyi.com +direct
 *.11467.com +direct
