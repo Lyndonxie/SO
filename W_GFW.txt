@@ -1,6 +1,17 @@
 [SwitchyOmega Conditions]
 @with result
-
+*.gaoguang.com +direct
+*.qqtn.com +direct
+*.xiaomiyoupin.com +direct
+*.phb123.com +direct
+*.inwaishe.com +direct
+*.zerobbs.net +direct
+*.kechuangfuwu.com +direct
+*.co188.com +direct
+*.ubuntuqa.com +direct
+*.alicdn.com +direct
+*.duoduoyin.com +direct
+*.77y4.com +direct
 *.cnkivip.net +direct
 *.paperccb.com +direct
 *.dt-control.com +direct
