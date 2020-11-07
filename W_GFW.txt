@@ -1,5 +1,12 @@
 [SwitchyOmega Conditions]
 @with result
+
+*.cdgtw.net +direct
+*.zuimeia.com +direct
+*.mysmth.net +direct
+*.soso.com +direct
+*.gtimg.cn +direct
+*.inwaishe.com +direct
 *.gaoguang.com +direct
 *.qqtn.com +direct
 *.xiaomiyoupin.com +direct
