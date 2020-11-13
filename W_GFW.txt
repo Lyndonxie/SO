@@ -1,6 +1,24 @@
 [SwitchyOmega Conditions]
 @with result
 
+*.deyi.com +direct
+*.pinduoduo.com +direct
+*.eduego.com +direct
+*.hunt007.com +direct
+*.dajiazhao.com +direct
+*.orzweb.net +direct
+*.trustutn.org +direct
+*.beikongyun.com +direct
+*.job98.com +direct
+*.onjobedu.com +direct
+*.ymfile.com +direct
+*.net114.com +direct
+*.d3o3d9viu00ouz.cloudfront.net +direct
+*.abb.com +direct
+*.walker-fan.com +direct
+*.xfangan.com +direct
+*.ni.com +direct
+221.232.64.245 +direct
 *.cdgtw.net +direct
 *.zuimeia.com +direct
 *.mysmth.net +direct
