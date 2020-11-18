@@ -1,6 +1,9 @@
 [SwitchyOmega Conditions]
 @with result
 
+*.xiaohongshu.com +direct
+*.freesion.com +direct
+*.huicaiba.com +direct
 *.deyi.com +direct
 *.pinduoduo.com +direct
 *.eduego.com +direct
