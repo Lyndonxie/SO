@@ -1,6 +1,12 @@
 [SwitchyOmega Conditions]
 @with result
 
+
+*.zhutix.com +direct
+*.yunzhan365.com +direct
+*.aliyundrive.com +direct
+*.chenweiliang.com +direct
+*.quqianbei.com +direct
 *.chachongla.com +direct
 *.sdifenchou.com +direct
 *.hxnews.com +direct
@@ -499,7 +505,6 @@
 *.gongxiao8.com +direct
 *.goodluckielts.com +direct
 *.greenxf.com +direct
-*.gstatic.com +direct
 *.gtanmod.com +direct
 *.gtimg.com +direct
 *.gto365.com +direct
