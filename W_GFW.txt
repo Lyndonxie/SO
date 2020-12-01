@@ -1,7 +1,9 @@
 [SwitchyOmega Conditions]
 @with result
 
-
+*.oschina.net +direct
+*.biubixin.com +direct
+*.jbzj.com +direct
 *.zhutix.com +direct
 *.yunzhan365.com +direct
 *.aliyundrive.com +direct
