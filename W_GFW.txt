@@ -1,6 +1,8 @@
 [SwitchyOmega Conditions]
 @with result
 
+*.xincanshu.com +direct
+*.malu.me +direct
 *.oschina.net +direct
 *.biubixin.com +direct
 *.jbzj.com +direct
